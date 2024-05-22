@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML , CSS, Js, Git, Python, Java**
+- 💬 Ask me about **HTML , CSS, JS, GIT, PYTHON, JAVA**
 
 - 📫 How to reach me **danilocasim174@gmail.com**
 
