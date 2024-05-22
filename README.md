@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mizaccc" target="blank"><img src="https://img.shields.io/twitter/follow/mizaccc?logo=twitter&style=for-the-badge" alt="mizaccc" /></a> </p>
 
-- 🔭 I’m currently working on **CVSU Alumni Website**
+- 🔭 I’m currently working on **<a href="https://csalumni.netlify.app">CVSU Alumni Website</a>**
 
 - 🌱 I’m currently learning **JavaScript**
 
