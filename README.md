@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://danilocasimjr-portfolio.netlify.app/](https://danilocasimjr-portfolio.netlify.app/)
-
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS, Js, Git, Python, Java**
 
 - 📫 How to reach me **danilocasim174@gmail.com**
 
