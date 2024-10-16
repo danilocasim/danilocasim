@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilocasim&label=Profile%20views&color=0e75b6&style=flat" alt="danilocasim" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/danilo-casim-jr09/?locale=en_US" target="blank"><img src="https://img.shields.io/twitter/follow/mizaccc?logo=twitter&style=for-the-badge" alt="mizaccc" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/danilo-casim-jr09/?locale=en_US" target="blank"><img src="https://img.shields.io/twitter/connect/danilo?logo=linkedin&style=for-the-badge" alt="mizaccc" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
