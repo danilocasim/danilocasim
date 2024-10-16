@@ -6,12 +6,6 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/danilo-casim-jr09/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-blue?style=for-the-badge&logo=linkedin" alt="danilocasim" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **HTML , CSS, JS, GIT, PYTHON, JAVA**
-
-- 📫 How to reach me **danilocasim174@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
