@@ -24,9 +24,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
   </a>
 </p>
-<br>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilocasim&show_icons=true&locale=en&layout=compact&theme=react" alt="danilocasim" /></p>
 
