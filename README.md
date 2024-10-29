@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Danilo Jr. B. Casim</h1>
-<h3 align="center">A passionate student developer from Philippines</h3>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilocasim&label=Profile%20views&color=0e75b6&style=flat" alt="danilocasim" /> </p>
